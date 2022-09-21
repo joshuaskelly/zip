@@ -1,6 +1,9 @@
 ### A portable (OSX/Linux/Windows/Android/iOS), simple zip library written in C
 This is done by hacking awesome [miniz](https://github.com/richgel999/miniz) library and layering functions on top of the miniz v2.2.0 API.
 
+### A hack on a hack
+One day I came across the amazing kuba--/zip repro but didn't want to deal with the cmake nonsense. So I simplified the library further to be easily built with make.
+
 [![Build](https://github.com/kuba--/zip/workflows/build/badge.svg)](https://github.com/kuba--/zip/actions?query=workflow%3Abuild)
 
 
